@@ -2,11 +2,13 @@
   {
     "id": "test-repo-section",
     "name": "Test Repo Section",
-    "type": "section",
+    "group": "containers",
+    "folder": "test-repo-section",
+    "json": "template.json",
+    "preview": "preview.png",
     "category": "section",
+    "tags": ["1 column"],
     "is_featured": true,
-    "preview_image": "https://raw.githubusercontent.com/Thomas-rrh/Elementor-Template-Pack/main/elementor-templates/previews/sections/test-repo-section.png",
-    "template_file": "https://raw.githubusercontent.com/Thomas-rrh/Elementor-Template-Pack/main/elementor-templates/templates/sections/test-repo-section.json",
     "version": "1.0.0"
   }
 ]
