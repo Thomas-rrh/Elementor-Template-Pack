@@ -1,12 +1,12 @@
 [
   {
-    "id": "test-repo-section",
-    "name": "Test Repo Section",
+    "id": "flower-slider",
+    "name": "Flower Slider",
     "group": "container",
-    "folder": "test-repo-section",
+    "folder": "flower-slider",
     "json": "template.json",
     "preview": "preview.png",
-    "category": "container",
+    "category": "slider",
     "tags": ["1 column"],
     "is_featured": true,
     "version": "1.0.1"
