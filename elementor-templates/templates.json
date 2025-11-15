@@ -4,6 +4,7 @@
     "name": "Test Repo Section",
     "type": "section",
     "category": "section",
+    "tags": ["featured"],
     "preview_image": "https://raw.githubusercontent.com/Thomas-rrh/Elementor-Template-Pack/main/elementor-templates/previews/sections/test-repo-section.png",
     "template_file": "https://raw.githubusercontent.com/Thomas-rrh/Elementor-Template-Pack/main/elementor-templates/templates/sections/test-repo-section.json",
     "version": "1.0.0"
