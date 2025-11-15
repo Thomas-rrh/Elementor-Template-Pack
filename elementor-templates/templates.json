@@ -6,7 +6,7 @@
     "folder": "test-repo-section",
     "json": "template.json",
     "preview": "preview.png",
-    "category": "section",
+    "category": "container",
     "tags": ["1 column"],
     "is_featured": true,
     "version": "1.0.0"
