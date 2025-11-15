@@ -2,7 +2,7 @@
   {
     "id": "test-repo-section",
     "name": "Test Repo Section",
-    "group": "containers",
+    "group": "container",
     "folder": "test-repo-section",
     "json": "template.json",
     "preview": "preview.png",
