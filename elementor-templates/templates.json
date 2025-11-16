@@ -1,12 +1,12 @@
 [
     {
         "id": "non-live-test",
-        "name": "Non Live Test 1",
-        "group": "footer",
+        "name": "Concentrates Slider",
+        "group": "container",
         "folder": "non-live-test",
         "json": "template.json",
         "preview": "preview-non-live-test-1763284388.png",
-        "category": "Footer",
+        "category": "Slider",
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
