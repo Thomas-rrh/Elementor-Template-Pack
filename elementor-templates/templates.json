@@ -1,19 +1,5 @@
 [
     {
-        "id": "concentrates-slider",
-        "name": "Concentrates Slider YOOO 2",
-        "group": "container",
-        "folder": "concentrates-slider",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "slider",
-        "tags": [
-            "yo"
-        ],
-        "is_featured": true,
-        "version": "1.0.1"
-    },
-    {
         "id": "test-header",
         "name": "Test Header 889",
         "group": "header",
