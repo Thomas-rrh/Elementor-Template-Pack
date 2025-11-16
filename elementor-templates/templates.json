@@ -54,19 +54,5 @@
         ],
         "is_featured": false,
         "version": "1.0.0"
-    },
-    {
-        "id": "site-name-test",
-        "name": "Site Name Test",
-        "group": "footer",
-        "folder": "site-name-test",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "Footer",
-        "tags": [
-            "test"
-        ],
-        "is_featured": true,
-        "version": "1.0.0"
     }
 ]
