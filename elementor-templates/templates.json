@@ -80,5 +80,17 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "another-one-yo",
+        "name": "Another one yo",
+        "group": "container",
+        "folder": "another-one-yo",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Popup",
+        "tags": [],
+        "is_featured": true,
+        "version": "1.0.0"
     }
 ]
