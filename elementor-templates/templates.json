@@ -21,10 +21,7 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "slider",
-        "tags": [
-            "2 column",
-            "3 column"
-        ],
+        "tags": [],
         "is_featured": true,
         "version": "1.0.1"
     },
