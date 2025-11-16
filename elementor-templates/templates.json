@@ -58,5 +58,17 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "menu",
+        "name": "Menu",
+        "group": "container",
+        "folder": "menu",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Menu",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
