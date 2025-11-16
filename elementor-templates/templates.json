@@ -76,20 +76,6 @@
         "version": "1.0.0"
     },
     {
-        "id": "another-one-yo",
-        "name": "Another one yo",
-        "group": "container",
-        "folder": "another-one-yo",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "Popup",
-        "tags": [
-            "test"
-        ],
-        "is_featured": true,
-        "version": "1.0.0"
-    },
-    {
         "id": "non-live-test",
         "name": "Non Live Test",
         "group": "footer",
