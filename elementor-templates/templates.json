@@ -1,13 +1,15 @@
 [
     {
         "id": "concentrates-slider",
-        "name": "Concentrates Slider 1",
+        "name": "Concentrates Slider YOOO",
         "group": "container",
         "folder": "concentrates-slider",
         "json": "template.json",
         "preview": "preview.png",
         "category": "slider",
-        "tags": [],
+        "tags": [
+            "yo"
+        ],
         "is_featured": true,
         "version": "1.0.1"
     },
