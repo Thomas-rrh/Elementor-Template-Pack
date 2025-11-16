@@ -12,20 +12,6 @@
         "tags": []
     },
     {
-        "id": "edibles-slider",
-        "name": "Edibles Slider",
-        "group": "container",
-        "folder": "edibles-slider",
-        "json": "template.json",
-        "preview": "preview-edibles-slider-1763283547.png",
-        "category": "slider",
-        "tags": [
-            "test"
-        ],
-        "is_featured": false,
-        "version": "1.0.0"
-    },
-    {
         "id": "footer-test",
         "name": "Footer Test",
         "group": "container",
