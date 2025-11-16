@@ -10,5 +10,16 @@
     "tags": ["1 column"],
     "is_featured": true,
     "version": "1.0.0"
+  },
+  {
+    "id": "test-header",
+    "name": "Test Header",
+    "group": "header",
+    "folder": "test-header",
+    "json": "template.json",
+    "preview": "preview.png",
+    "category": "header",
+    "is_featured": true,
+    "version": "1.0.0"
   }
 ]
