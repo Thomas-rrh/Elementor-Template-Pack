@@ -54,5 +54,19 @@
         ],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "footer-test",
+        "name": "Footer Test",
+        "group": "footer",
+        "folder": "footer-test",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Footer",
+        "tags": [
+            "test"
+        ],
+        "is_featured": true,
+        "version": "1.0.0"
     }
 ]
