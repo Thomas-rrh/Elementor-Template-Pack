@@ -35,7 +35,7 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "header",
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.1"
     },
     {
