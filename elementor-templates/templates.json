@@ -1,17 +1,5 @@
 [
     {
-        "id": "test-header",
-        "name": "Test Header 889",
-        "group": "header",
-        "folder": "test-header",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "header",
-        "is_featured": false,
-        "version": "1.0.1",
-        "tags": []
-    },
-    {
         "id": "footer-test",
         "name": "Footer Test",
         "group": "container",
