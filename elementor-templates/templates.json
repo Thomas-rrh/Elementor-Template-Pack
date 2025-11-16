@@ -19,9 +19,9 @@
     "json": "template.json",
     "preview": "preview.png",
     "category": "slider",
-    "tags": ["1 column"],
+    "tags": ["2 column"],
     "is_featured": true,
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   {
     "id": "test-header",
