@@ -15,7 +15,7 @@
     },
     {
         "id": "concentrates-slider",
-        "name": "Concentrates Slider",
+        "name": "Concentrates Slider 1",
         "group": "container",
         "folder": "concentrates-slider",
         "json": "template.json",
