@@ -34,5 +34,17 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "pre-roll-slider",
+        "name": "Pre-Roll Slider",
+        "group": "container",
+        "folder": "pre-roll-slider",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Slider",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
