@@ -92,5 +92,17 @@
         "tags": [],
         "is_featured": true,
         "version": "1.0.0"
+    },
+    {
+        "id": "non-live-test",
+        "name": "Non Live Test",
+        "group": "footer",
+        "folder": "non-live-test",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Footer",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
