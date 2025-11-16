@@ -67,10 +67,7 @@
         "json": "template.json",
         "preview": "preview-footer-test-1763280885.png",
         "category": "slider",
-        "tags": [
-            "2 column",
-            "test"
-        ],
+        "tags": [],
         "is_featured": false,
         "version": "1.0.0"
     },
