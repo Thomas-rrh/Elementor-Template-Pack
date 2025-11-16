@@ -82,5 +82,17 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "page-title",
+        "name": "Page Title",
+        "group": "container",
+        "folder": "page-title",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Page Title",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
