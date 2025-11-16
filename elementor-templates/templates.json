@@ -70,5 +70,17 @@
         "tags": [],
         "is_featured": true,
         "version": "1.0.0"
+    },
+    {
+        "id": "header-one",
+        "name": "Header One",
+        "group": "header",
+        "folder": "header-one",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Header",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
