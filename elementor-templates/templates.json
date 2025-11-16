@@ -1,19 +1,5 @@
 [
     {
-        "id": "flower-slider",
-        "name": "Flower Slider 6664",
-        "group": "container",
-        "folder": "flower-slider",
-        "json": "template.json",
-        "preview": "preview-flower-slider-1763281292.png",
-        "category": "slider",
-        "tags": [
-            "test"
-        ],
-        "is_featured": false,
-        "version": "1.0.0"
-    },
-    {
         "id": "concentrates-slider",
         "name": "Concentrates Slider 1",
         "group": "container",
