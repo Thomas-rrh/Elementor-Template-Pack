@@ -30,7 +30,7 @@
     },
     {
         "id": "test-header",
-        "name": "Test Header 2",
+        "name": "Test Header 88",
         "group": "header",
         "folder": "test-header",
         "json": "template.json",
@@ -38,7 +38,9 @@
         "category": "header",
         "is_featured": false,
         "version": "1.0.1",
-        "tags": []
+        "tags": [
+            "2 column"
+        ]
     },
     {
         "id": "edibles-slider",
