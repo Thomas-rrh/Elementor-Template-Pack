@@ -49,7 +49,7 @@
         "tags": [
             "1 column"
         ],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0"
     }
 ]
