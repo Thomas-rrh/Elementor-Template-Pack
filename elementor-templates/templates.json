@@ -40,9 +40,7 @@
         "category": "header",
         "is_featured": false,
         "version": "1.0.1",
-        "tags": [
-            "2 column"
-        ]
+        "tags": []
     },
     {
         "id": "edibles-slider",
