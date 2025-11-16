@@ -30,7 +30,7 @@
     },
     {
         "id": "test-header",
-        "name": "Test Header",
+        "name": "Test Header 2",
         "group": "header",
         "folder": "test-header",
         "json": "template.json",
