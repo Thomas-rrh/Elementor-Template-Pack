@@ -20,7 +20,7 @@
         "preview": "preview.png",
         "category": "Slider",
         "tags": [],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0"
     },
     {
