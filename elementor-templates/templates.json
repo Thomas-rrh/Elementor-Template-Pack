@@ -1,7 +1,7 @@
 [
     {
         "id": "non-live-test",
-        "name": "Non Live Test",
+        "name": "Non Live Test 1",
         "group": "footer",
         "folder": "non-live-test",
         "json": "template.json",
