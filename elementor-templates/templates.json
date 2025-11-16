@@ -19,7 +19,7 @@
     "json": "template.json",
     "preview": "preview.png",
     "category": "header",
-    "is_featured": true,
-    "version": "1.0.0"
+    "is_featured": false,
+    "version": "1.0.1"
   }
 ]
