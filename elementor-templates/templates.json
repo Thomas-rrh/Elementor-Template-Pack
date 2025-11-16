@@ -37,7 +37,8 @@
         "preview": "preview.png",
         "category": "header",
         "is_featured": false,
-        "version": "1.0.1"
+        "version": "1.0.1",
+        "tags": []
     },
     {
         "id": "edibles-slider",
