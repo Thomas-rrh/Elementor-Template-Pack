@@ -12,6 +12,18 @@
     "version": "1.0.0"
   },
   {
+    "id": "concentrates-slider",
+    "name": "Concentrates Slider",
+    "group": "container",
+    "folder": "concentrates-slider",
+    "json": "template.json",
+    "preview": "preview.png",
+    "category": "slider",
+    "tags": ["1 column"],
+    "is_featured": true,
+    "version": "1.0.0"
+  },
+  {
     "id": "test-header",
     "name": "Test Header",
     "group": "header",
