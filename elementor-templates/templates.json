@@ -86,7 +86,9 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Popup",
-        "tags": [],
+        "tags": [
+            "test"
+        ],
         "is_featured": true,
         "version": "1.0.0"
     },
