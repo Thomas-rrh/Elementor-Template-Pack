@@ -46,5 +46,17 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
+    },
+    {
+        "id": "vaporizer-slider",
+        "name": "Vaporizer Slider",
+        "group": "container",
+        "folder": "vaporizer-slider",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Slider",
+        "tags": [],
+        "is_featured": false,
+        "version": "1.0.0"
     }
 ]
