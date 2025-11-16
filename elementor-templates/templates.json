@@ -64,9 +64,10 @@
         "preview": "preview.png",
         "category": "slider",
         "tags": [
+            "2 column",
             "test"
         ],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0"
     },
     {
