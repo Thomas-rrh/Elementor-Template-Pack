@@ -10,19 +10,5 @@
         "tags": [],
         "is_featured": false,
         "version": "1.0.0"
-    },
-    {
-        "id": "edibles-slider-4",
-        "name": "Edibles Slider 4",
-        "group": "container",
-        "folder": "edibles-slider-4",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "container",
-        "tags": [
-            "test12"
-        ],
-        "is_featured": false,
-        "version": "1.0.0"
     }
 ]
