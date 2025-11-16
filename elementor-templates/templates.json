@@ -1,17 +1,5 @@
 [
     {
-        "id": "edibles-slider-4",
-        "name": "Edibles Slider 4",
-        "group": "container",
-        "folder": "edibles-slider-4",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "slider",
-        "tags": [],
-        "is_featured": false,
-        "version": "1.0.0"
-    },
-    {
         "id": "non-live-test",
         "name": "Non Live Test",
         "group": "footer",
