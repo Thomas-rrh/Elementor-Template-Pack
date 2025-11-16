@@ -58,11 +58,11 @@
     {
         "id": "footer-test",
         "name": "Footer Test",
-        "group": "footer",
+        "group": "container",
         "folder": "footer-test",
         "json": "template.json",
         "preview": "preview.png",
-        "category": "Footer",
+        "category": "slider",
         "tags": [
             "test"
         ],
