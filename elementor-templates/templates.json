@@ -86,7 +86,7 @@
     },
     {
         "id": "menu",
-        "name": "Menu 1",
+        "name": "Menu",
         "group": "container",
         "folder": "menu",
         "json": "template.json",
@@ -99,7 +99,7 @@
         "version": "1.0.0",
         "training_url": "https://app.arcade.software/share/jwQWWytx7STS2jooobYo?ref=share-link",
         "review_status": "live",
-        "updated_at": "2025-11-17T12:56:39-05:00"
+        "updated_at": "2025-11-17T12:56:53-05:00"
     },
     {
         "id": "header-one",
