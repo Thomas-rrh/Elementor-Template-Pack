@@ -83,5 +83,18 @@
         "is_featured": false,
         "version": "1.0.0",
         "review_status": "needs_review"
+    },
+    {
+        "id": "test-initial-upload",
+        "name": "Test Initial Upload",
+        "group": "container",
+        "folder": "test-initial-upload",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Slider",
+        "tags": [],
+        "is_featured": false,
+        "review_status": "needs_review",
+        "version": "1.0.0"
     }
 ]
