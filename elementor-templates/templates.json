@@ -80,8 +80,8 @@
         "preview": "preview.png",
         "category": "Header",
         "tags": [],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0",
-        "review_status": "needs_review"
+        "review_status": "live"
     }
 ]
