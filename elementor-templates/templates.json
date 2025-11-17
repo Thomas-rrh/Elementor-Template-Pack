@@ -83,7 +83,7 @@
     },
     {
         "id": "header-one",
-        "name": "Header One",
+        "name": "Header One 1",
         "group": "header",
         "folder": "header-one",
         "json": "template.json",
