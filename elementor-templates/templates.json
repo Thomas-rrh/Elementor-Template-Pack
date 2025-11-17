@@ -120,11 +120,13 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Slider",
-        "tags": [],
+        "tags": [
+            "E-commerce"
+        ],
         "is_featured": false,
         "training_url": "",
         "review_status": "live",
         "version": "1.0.0",
-        "updated_at": "2025-11-17T00:14:10-05:00"
+        "updated_at": "2025-11-17T02:35:31-05:00"
     }
 ]
