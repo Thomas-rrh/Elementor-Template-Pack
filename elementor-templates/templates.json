@@ -107,5 +107,20 @@
         "review_status": "needs_review",
         "training_url": "",
         "updated_at": "2025-11-17T00:00:54-05:00"
+    },
+    {
+        "id": "personalized-slider",
+        "name": "Personalized Slider",
+        "group": "container",
+        "folder": "personalized-slider",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Slider",
+        "tags": [],
+        "is_featured": false,
+        "training_url": "",
+        "review_status": "needs_review",
+        "version": "1.0.0",
+        "updated_at": "2025-11-17T00:13:45-05:00"
     }
 ]
