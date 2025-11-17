@@ -102,21 +102,6 @@
         "updated_at": "2025-11-17T13:35:36-05:00"
     },
     {
-        "id": "header-one",
-        "name": "Header One",
-        "group": "header",
-        "folder": "header-one",
-        "json": "template.json",
-        "preview": "preview-header-one-1763345152.png",
-        "category": "Header",
-        "tags": [],
-        "is_featured": false,
-        "version": "1.0.0",
-        "review_status": "needs_review",
-        "training_url": "",
-        "updated_at": "2025-11-17T13:48:41-05:00"
-    },
-    {
         "id": "personalized-slider",
         "name": "Personalized Slider",
         "group": "container",
