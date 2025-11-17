@@ -29,7 +29,8 @@
         "is_featured": false,
         "version": "1.0.0",
         "training_url": "",
-        "review_status": "live"
+        "review_status": "live",
+        "updated_at": "2025-11-17T00:02:07-05:00"
     },
     {
         "id": "flower-slider",
