@@ -89,9 +89,7 @@
         "json": "template.json",
         "preview": "preview-header-one-1763345049.png",
         "category": "Header",
-        "tags": [
-            "test"
-        ],
+        "tags": [],
         "is_featured": false,
         "version": "1.0.0",
         "review_status": "needs_review",
