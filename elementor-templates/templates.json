@@ -95,6 +95,7 @@
         "is_featured": false,
         "version": "1.0.0",
         "review_status": "needs_review",
-        "training_url": ""
+        "training_url": "",
+        "updated_at": "2025-11-17T00:00:54-05:00"
     }
 ]
