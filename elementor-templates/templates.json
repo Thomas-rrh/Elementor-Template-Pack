@@ -75,12 +75,14 @@
         "json": "template.json",
         "preview": "preview-vaporizer-slider-1763316884.png",
         "category": "Slider",
-        "tags": [],
+        "tags": [
+            "E-commerce"
+        ],
         "is_featured": false,
         "version": "1.0.0",
         "training_url": "",
         "review_status": "live",
-        "updated_at": "2025-11-17T00:01:24-05:00"
+        "updated_at": "2025-11-17T02:35:40-05:00"
     },
     {
         "id": "menu",
