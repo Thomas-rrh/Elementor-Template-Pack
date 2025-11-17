@@ -23,9 +23,13 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Slider",
-        "tags": [],
+        "tags": [
+            "2 column"
+        ],
         "is_featured": false,
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "training_url": "",
+        "review_status": "live"
     },
     {
         "id": "flower-slider",
