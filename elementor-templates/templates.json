@@ -83,8 +83,8 @@
     },
     {
         "id": "header-one",
-        "name": "Header One 1",
-        "group": "footer",
+        "name": "Header One",
+        "group": "header",
         "folder": "header-one",
         "json": "template.json",
         "preview": "preview-header-one-1763345049.png",
@@ -92,7 +92,7 @@
         "tags": [
             "test"
         ],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0",
         "review_status": "needs_review",
         "training_url": ""
