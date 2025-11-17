@@ -69,7 +69,9 @@
         "category": "Menu",
         "tags": [],
         "is_featured": true,
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "training_url": "https://support.rankreallyhigh.com/how-to-add-text-in-elementor",
+        "review_status": "live"
     },
     {
         "id": "header-one",
