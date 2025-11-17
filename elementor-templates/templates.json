@@ -57,7 +57,7 @@
     },
     {
         "id": "vaporizer-slider",
-        "name": "Vaporizer Slider 11=",
+        "name": "Vaporizer Slider",
         "group": "container",
         "folder": "vaporizer-slider",
         "json": "template.json",
