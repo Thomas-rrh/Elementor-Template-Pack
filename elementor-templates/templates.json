@@ -122,5 +122,20 @@
         "review_status": "live",
         "version": "1.0.0",
         "updated_at": "2025-11-17T00:14:10-05:00"
+    },
+    {
+        "id": "header-2",
+        "name": "Header 2",
+        "group": "header",
+        "folder": "header-2",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Header",
+        "tags": [],
+        "is_featured": false,
+        "training_url": "",
+        "review_status": "needs_review",
+        "version": "1.0.0",
+        "updated_at": "2025-11-17T00:19:25-05:00"
     }
 ]
