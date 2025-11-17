@@ -103,7 +103,7 @@
     },
     {
         "id": "header-one",
-        "name": "Header One 1",
+        "name": "Header One",
         "group": "header",
         "folder": "header-one",
         "json": "template.json",
@@ -114,7 +114,7 @@
         "version": "1.0.0",
         "review_status": "needs_review",
         "training_url": "",
-        "updated_at": "2025-11-17T12:58:42-05:00"
+        "updated_at": "2025-11-17T13:41:23-05:00"
     },
     {
         "id": "personalized-slider",
