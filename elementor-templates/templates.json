@@ -83,15 +83,18 @@
     },
     {
         "id": "header-one",
-        "name": "Header One",
-        "group": "header",
+        "name": "Header One 1",
+        "group": "footer",
         "folder": "header-one",
         "json": "template.json",
-        "preview": "preview.png",
+        "preview": "preview-header-one-1763345049.png",
         "category": "Header",
-        "tags": [],
-        "is_featured": false,
+        "tags": [
+            "test"
+        ],
+        "is_featured": true,
         "version": "1.0.0",
-        "review_status": "needs_review"
+        "review_status": "needs_review",
+        "training_url": ""
     }
 ]
