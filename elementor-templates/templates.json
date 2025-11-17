@@ -86,12 +86,14 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Menu",
-        "tags": [],
+        "tags": [
+            "E-commerce"
+        ],
         "is_featured": true,
         "version": "1.0.0",
         "training_url": "https://app.arcade.software/share/jwQWWytx7STS2jooobYo?ref=share-link",
         "review_status": "live",
-        "updated_at": "2025-11-17T02:00:48-05:00"
+        "updated_at": "2025-11-17T02:34:57-05:00"
     },
     {
         "id": "header-one",
