@@ -7,9 +7,13 @@
         "json": "template.json",
         "preview": "preview-non-live-test-1763316144.png",
         "category": "Slider",
-        "tags": [],
+        "tags": [
+            "1 column"
+        ],
         "is_featured": false,
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "training_url": "",
+        "review_status": "live"
     },
     {
         "id": "edibles-slider",
