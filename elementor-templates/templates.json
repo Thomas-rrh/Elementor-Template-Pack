@@ -57,7 +57,7 @@
     },
     {
         "id": "vaporizer-slider",
-        "name": "Vaporizer Slider",
+        "name": "Vaporizer Slider 11=",
         "group": "container",
         "folder": "vaporizer-slider",
         "json": "template.json",
@@ -65,7 +65,9 @@
         "category": "Slider",
         "tags": [],
         "is_featured": false,
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "training_url": "",
+        "review_status": "live"
     },
     {
         "id": "menu",
