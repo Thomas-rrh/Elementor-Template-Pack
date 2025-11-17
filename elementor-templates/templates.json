@@ -108,13 +108,13 @@
         "folder": "header-one",
         "json": "template.json",
         "preview": "preview-header-one-1763345152.png",
-        "category": "Menu",
+        "category": "Header",
         "tags": [],
         "is_featured": false,
         "version": "1.0.0",
         "review_status": "needs_review",
         "training_url": "",
-        "updated_at": "2025-11-17T12:57:18-05:00"
+        "updated_at": "2025-11-17T12:58:42-05:00"
     },
     {
         "id": "personalized-slider",
