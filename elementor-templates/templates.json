@@ -41,7 +41,10 @@
         "category": "Slider",
         "tags": [],
         "is_featured": false,
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "training_url": "",
+        "updated_at": "2025-11-17T00:01:57-05:00",
+        "review_status": "live"
     },
     {
         "id": "pre-roll-slider",
