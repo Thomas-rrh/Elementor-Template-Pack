@@ -13,8 +13,8 @@
         "is_featured": false,
         "version": "1.0.0",
         "training_url": "",
-        "review_status": "live",
-        "updated_at": "2025-11-17T17:07:18-05:00"
+        "review_status": "needs_review",
+        "updated_at": "2025-11-19T12:25:25-05:00"
     },
     {
         "id": "edibles-slider",
