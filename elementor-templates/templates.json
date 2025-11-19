@@ -24,14 +24,12 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Slider",
-        "tags": [
-            "E-commerce"
-        ],
-        "is_featured": false,
+        "tags": [],
+        "is_featured": true,
         "version": "1.0.0",
         "training_url": "",
-        "review_status": "live",
-        "updated_at": "2025-11-18T22:36:10-05:00"
+        "review_status": "needs_review",
+        "updated_at": "2025-11-18T22:37:42-05:00"
     },
     {
         "id": "flower-slider",
