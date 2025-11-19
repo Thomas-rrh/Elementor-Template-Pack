@@ -25,11 +25,11 @@
         "preview": "preview.png",
         "category": "Slider",
         "tags": [],
-        "is_featured": true,
+        "is_featured": false,
         "version": "1.0.0",
         "training_url": "",
-        "review_status": "needs_review",
-        "updated_at": "2025-11-18T22:37:42-05:00"
+        "review_status": "live",
+        "updated_at": "2025-11-18T23:01:10-05:00"
     },
     {
         "id": "flower-slider",
