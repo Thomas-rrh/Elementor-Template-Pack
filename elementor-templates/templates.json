@@ -115,5 +115,23 @@
         "review_status": "live",
         "version": "1.0.0",
         "updated_at": "2025-11-17T02:35:31-05:00"
+    },
+    {
+        "id": "test-upload",
+        "name": "Test Upload",
+        "group": "container",
+        "folder": "test-upload",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Slider",
+        "tags": [
+            "E-commerce",
+            "Test"
+        ],
+        "is_featured": false,
+        "training_url": "https://support.rankreallyhigh.com/how-to-add-images-in-elementor",
+        "review_status": "needs_review",
+        "version": "1.0.0",
+        "updated_at": "2025-11-18T23:01:52-05:00"
     }
 ]
