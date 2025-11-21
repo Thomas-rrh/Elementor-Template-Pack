@@ -132,5 +132,22 @@
         "review_status": "live",
         "version": "1.0.0",
         "updated_at": "2025-11-18T23:02:04-05:00"
+    },
+    {
+        "id": "full-width-demo",
+        "name": "Full Width Demo",
+        "group": "container",
+        "folder": "full-width-demo",
+        "json": "template.json",
+        "preview": "",
+        "category": "Section",
+        "tags": [
+            "Cute"
+        ],
+        "is_featured": true,
+        "training_url": "",
+        "review_status": "needs_review",
+        "version": "1.0.0",
+        "updated_at": "2025-11-20T23:52:22-05:00"
     }
 ]
