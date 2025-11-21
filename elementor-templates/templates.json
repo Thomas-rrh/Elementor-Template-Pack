@@ -156,11 +156,13 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Section",
-        "tags": [],
-        "is_featured": false,
+        "tags": [
+            "Pretty"
+        ],
+        "is_featured": true,
         "training_url": "",
         "review_status": "needs_review",
         "version": "1.0.0",
-        "updated_at": "2025-11-20T23:55:32-05:00"
+        "updated_at": "2025-11-20T23:55:50-05:00"
     }
 ]
