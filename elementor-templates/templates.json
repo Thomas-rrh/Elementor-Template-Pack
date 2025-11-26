@@ -149,5 +149,22 @@
         "review_status": "needs_review",
         "version": "1.0.0",
         "updated_at": "2025-11-26T11:37:00-05:00"
+    },
+    {
+        "id": "half-width-template",
+        "name": "Half Width Template",
+        "group": "container",
+        "folder": "half-width-template",
+        "json": "template.json",
+        "preview": "preview.png",
+        "category": "Section",
+        "tags": [
+            "New"
+        ],
+        "is_featured": true,
+        "training_url": "",
+        "review_status": "needs_review",
+        "version": "1.0.0",
+        "updated_at": "2025-11-26T11:38:27-05:00"
     }
 ]
