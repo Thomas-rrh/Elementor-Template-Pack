@@ -147,22 +147,5 @@
         "review_status": "needs_review",
         "version": "1.0.0",
         "updated_at": "2025-11-21T15:50:34-05:00"
-    },
-    {
-        "id": "half-width-demo",
-        "name": "Half Width Demo",
-        "group": "container",
-        "folder": "half-width-demo",
-        "json": "template.json",
-        "preview": "preview.png",
-        "category": "Section",
-        "tags": [
-            "Test"
-        ],
-        "is_featured": false,
-        "training_url": "",
-        "review_status": "needs_review",
-        "version": "1.0.0",
-        "updated_at": "2025-11-26T10:26:38-05:00"
     }
 ]
