@@ -158,13 +158,11 @@
         "json": "template.json",
         "preview": "preview.png",
         "category": "Section",
-        "tags": [
-            "New"
-        ],
+        "tags": [],
         "is_featured": true,
         "training_url": "",
-        "review_status": "needs_review",
+        "review_status": "live",
         "version": "1.0.0",
-        "updated_at": "2025-11-26T11:38:27-05:00"
+        "updated_at": "2025-11-26T11:39:22-05:00"
     }
 ]
